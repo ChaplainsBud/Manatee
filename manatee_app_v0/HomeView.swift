@@ -43,9 +43,9 @@ struct HomeView: View {
                 .padding()
             
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .background(Color.black) // Setting background color to black
-                .edgesIgnoringSafeArea(.all) // Ensuring the color fills the entire screen
+//        .frame(maxWidth: .infinity, maxHeight: .infinity)
+//                .background(Color.black) // Setting background color to black
+//                .edgesIgnoringSafeArea(.all) // Ensuring the color fills the entire screen
     }
 }
 
