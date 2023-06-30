@@ -33,6 +33,7 @@
 		70BE60522A4CD3F400654DC8 /* MatchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchView.swift; sourceTree = "<group>"; };
 		70BE60542A4CD41600654DC8 /* ScheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleView.swift; sourceTree = "<group>"; };
 		70BE60582A4CD45500654DC8 /* ResourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesView.swift; sourceTree = "<group>"; };
+		70BE605A2A4F51D700654DC8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 				70BE60522A4CD3F400654DC8 /* MatchView.swift */,
 				70BE60542A4CD41600654DC8 /* ScheduleView.swift */,
 				70BE60582A4CD45500654DC8 /* ResourcesView.swift */,
+				70BE605A2A4F51D700654DC8 /* README.md */,
 			);
 			path = manatee_app_v0;
 			sourceTree = "<group>";

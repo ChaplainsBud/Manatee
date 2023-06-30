@@ -13,7 +13,7 @@ struct MatchView: View {
     @State private var enteredInterests: String = ""
 
     let roles = ["Mentor", "Mentee", "Peer"]
-    let ages = Array(1...99)
+    let ages = Array(18...99)
 
     var body: some View {
         NavigationView {
